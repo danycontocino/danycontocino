@@ -1,4 +1,5 @@
-# Hola soy Daniela Caballero👋
+  <img src="https://giffiles.alphacoders.com/377/37708.gif" width="80%" />
+  # Hola soy Daniela Caballero👋
 
 Soy estudiante de programación/ingeniería de sistemas/etc...
 
