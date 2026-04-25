@@ -8,4 +8,4 @@ Soy estudiante de programación/ingeniería de sistemas/etc...
 - Python
 - Git
 - [linkedin](https://co.linkedin.com/)
-![MI linkledin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwjGmGCVObFjUGBOYLyZFoeK9CL0SW5GEfw&s)
+![MI linkledin](https://github.com/danycontocino/danycontocino/blob/main/WhatsApp%20Image%202026-04-25%20at%2010.44.20%20AM.jpeg?raw=true)
